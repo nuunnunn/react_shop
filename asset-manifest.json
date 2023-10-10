@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react_shop/static/css/main.10b8d046.css",
+    "main.js": "/react_shop/static/js/main.81d7ca48.js",
+    "static/js/787.23170c61.chunk.js": "/react_shop/static/js/787.23170c61.chunk.js",
+    "static/media/slider.jpg": "/react_shop/static/media/slider.a7899a3a3928abce3b3a.jpg",
+    "index.html": "/react_shop/index.html",
+    "main.10b8d046.css.map": "/react_shop/static/css/main.10b8d046.css.map",
+    "main.81d7ca48.js.map": "/react_shop/static/js/main.81d7ca48.js.map",
+    "787.23170c61.chunk.js.map": "/react_shop/static/js/787.23170c61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10b8d046.css",
+    "static/js/main.81d7ca48.js"
+  ]
+}
